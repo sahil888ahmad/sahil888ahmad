@@ -3,7 +3,9 @@
 
 ---
 
-## 🎓 Academic
+## 🎓 Education
+- 🎓 B.Tech CSE (AI & DS), 4th Semester  
+- 🏫 CGC University  
 - 🎯 CGPA: **8.90**
 
 ---
