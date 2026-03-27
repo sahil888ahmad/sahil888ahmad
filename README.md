@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br># Hi, I'm Sahil<br><br>I am a developer from India, currently learning Data Structures and Full Stack Development.<br><br>## About Me<br>- Working on a collaborative whiteboard project<br>- Practicing DSA regularly<br>- Interested in backend and system design<br><br>## Skills<br>- Languages: C++, Java, JavaScript<br>- Frontend: HTML, CSS, React<br>- Backend: Node.js (learning)<br>- Database: MySQL<br><br>## Projects<br>- Collaborative Whiteboard App<br>- DSA Practice Repository<br>- Portfolio Website<br><br>## Contact<br>- LinkedIn: https://linkedin.com/in/YOUR_PROFILE<br>- Email: your@email.com
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun factHi, I'm Sahil<br><br>Aspiring Software Developer from India focused on Data Structures, Algorithms, and Full Stack Development.<br><br>Academic<br>Aggregated CGPA till now: 8.90<br>DSA Progress<br>Solving problems daily on LeetCode & GeeksforGeeks<br>Strong in: Arrays, Strings, Linked List, Recursion<br>Learning: Trees, Graphs, Dynamic Programming<br>Skills<br>Languages<br>C++, Python, Java, C<br>Frameworks & Tools<br>React, Express<br>Deployment<br>Vercel, Render<br>Databases<br>SQL, Microsoft Oracle<br>Libraries<br>Pandas, Scikit-learn, NumPy<br>Coding Profiles<br>LeetCode: https://leetcode.com/u/sahil888ahmad/<br>GeeksforGeeks: https://www.geeksforgeeks.org/profile/mrsahil5apxu<br>Typing Practice<br>MonkeyType: https://monkeytype.com/profile/Sahil_ah_mad<br>Projects<br>Face Recognition Attendance System<br>Pixel Runner Game<br>Ticketing System<br>Collaborative Whiteboard App<br>DSA Practice Repository<br>Goals<br>Crack top tech companies<br>Become strong in problem solving<br>Build scalable projects<br>Contact<br>LinkedIn: https://www.linkedin.com/in/sahil-ahmad-/<br>Email: sahil888ahmad@gmail.com
 
 
 ## 🌐 Socials:
@@ -11,6 +11,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=sahil888ahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sahil888ahmad&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil888ahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sahil888ahmad&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sahil888ahmad&icon=0&color=0)](https://visitcount.itsvg.in)
