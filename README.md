@@ -52,8 +52,7 @@ Pandas • Scikit-learn • NumPy
 - 🧠 Face Recognition Attendance System  
 - 🎮 Pixel Runner Game  
 - 🎟️ Ticketing System  
-- 🧑‍💻 Collaborative Whiteboard App  
-- 📚 DSA Practice Repository  
+- 🧑‍💻 Collaborative Whiteboard App   
 
 ---
 
